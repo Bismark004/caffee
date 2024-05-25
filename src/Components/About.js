@@ -9,7 +9,7 @@ function  About() {
 
         <div className='text'>
              <h2>Discover Coffee Borcelle</h2>
-             <h4>Elevating Your Coffee Experience</h4>
+             <h5>Elevating Your Coffee Experience</h5>
 
              <p>
              At Coffee Borcelle, we're on a mission to redefine your coffee moments. 

@@ -18,12 +18,11 @@
     height: 513px;
     margin-top: 58px;
     margin-left: 106.752px;
-    border: 1px solid blue;
+  
 }
 
 .text {
     margin-left: 241.358px;
-    border: 1px solid red;
     height: auto;
     width: 776.73;
     margin-top: 72px;
@@ -36,14 +35,17 @@
     line-height: 90px;
     font-weight: 700;
     font-size: 60px;
-    border: 1px solid black;
+
 }
 
-.text h4 {
+.text h5 {
     height: 84px;
     font-weight: 400;
     font-size: 38px;
     line-height: 57px;
+    font-family:  'poppins', sans-serif;
+    margin-top: -12px;
+
 
 }
 
@@ -51,5 +53,26 @@
     width: 674.9px;
     font-weight: 400;
     line-height: 29.05px;
+    height: 182px;
+    font-family:  'inter', sans-serif;
+    margin-top: 20px;
+
 }
+
+.text  button {
+    width: 267.6px;
+    height: 60px;
+    margin-top: 40px;
+    border-radius: 2px;
+    font-family: sans-serif, 'inter';
+    font-weight: 400px;
+    font-size: 24px;
+    text-align: center;
+    line-height: 29.05px;
+    background-color: rgba(47, 31, 20, 1);
+    color: rgba(255, 255, 255, 1);
+
+}
+    
+
 
