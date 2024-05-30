@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.footer {
+    width: 100vw;
+    height: 810px;
+    background: rgba(41, 22, 0, 1);
+    display: flex;
+    gap: 1.8%;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'inter', sans-serif;
+
+}
+
+.forms {
+    display: flex;
+    flex-direction: column;
+    margin-left: 337.45px;
+    margin-top: 92px;
+    width: 392.73px;
+}
+
+.contact-us {
+    width: 337.45px;
+    font: 60px;
+    font-weight: 700;
+    line-height: 72.61px;
+}
+
+.send-us {
+    width: 337.45px;
+    font: 36px;
+    font-weight: 400;
+    margin-top: -28px;
+    line-height: 43.57px;
+}
+
+input {
+    width: 288px;
+    height: 59.63px;
+    margin-bottom: 7.96px;
+}
+
+input, textarea::placeholder {
+    font-family: 400;
+    line-height: 29.05px;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+textarea{
+    width: 100%;
+    height: 120px;
+    margin-bottom: 7.96px;
+}
+    
+
+
+
+button {
+    width: 189.09px;
+    height: 60px;
+    background: rgba(219, 188, 161, 1);
+    border-radius: 13px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.05px;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.sitemap {
+    display: flex;
+    flex-direction: column;
+    margin-top: 92px;
+}
+
+.sitemap ul {
+    list-style: none;
+}
+
+.sitemap li {
+    margin: 8px;
+}
+
+.last {
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    font-weight: 36px;
+    line-height: 43.57px;
+}
+
+.phone, .envelope{
+    display: flex;
+    align-items: center;
+}
+
+.phone img {
+    width: 34.67px;
+    height: 36px;
+}
+
+.envelope img {
+    width: 36px;
+    height: 35.78px;
+}
+
+.last .logo {
+    width: 467.39px;
+    height: 432px;
+    margin-top: 0;
+}
+
+.phone {
+    margin-top: -72px;
+    
+}
+ .phone, .envelope {
+    margin-left: 32px;
+ }

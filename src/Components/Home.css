@@ -25,7 +25,6 @@
     font-size: var(--primary-font-size);
     width: 100vw;
     height: 74.1vh;
-    border: 10px solid blue;
 }
 
 .header {
